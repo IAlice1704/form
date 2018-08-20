@@ -13,7 +13,6 @@ class Header extends Component {
 		 return (
       <div className="jumbotron">
               <ul class="nav nav-pills">
-      <li style={{float: 'right'}}><a rel="nofollow" href="/">Корзина<span id="total-cart-count" class="badge"></span></a></li>
       </ul>
       </div>
   //      <header className="header">
